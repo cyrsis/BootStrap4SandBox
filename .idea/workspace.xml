@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cff947a-f634-4a4e-b1f9-ac32b1f0b8d7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../bootstrap4Sandbox/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bootstrap4Sandbox/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bootstrap4Sandbox/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bootstrap4Sandbox/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bootstrap4Sandbox/img/bg-home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bootstrap4Sandbox/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bootstrap4Sandbox/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap4Sandbox/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap4Sandbox/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap4Sandbox/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap4Sandbox/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap4Sandbox/home.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +20,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../bootstrap4Sandbox/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+            <state relative-caret-position="236">
+              <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -61,7 +59,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="1156" />
+    <option name="width" value="1184" />
     <option name="height" value="1025" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -127,6 +125,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="GO_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
@@ -211,15 +210,23 @@
       <workItem from="1535613186663" duration="4290000" />
       <workItem from="1535617522416" duration="57000" />
       <workItem from="1535617610709" duration="2581000" />
-      <workItem from="1536565706840" duration="2286000" />
+      <workItem from="1536565706840" duration="4230000" />
     </task>
+    <task id="LOCAL-00001" summary="add lot of styles">
+      <created>1536568132831</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1536568132831</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9214000" />
+    <option name="totallyTimeSpent" value="11158000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1156" height="1025" extended-state="0" />
+    <frame x="-7" y="0" width="1184" height="1025" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -243,7 +250,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1870438" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18238434" />
       <window_info anchor="right" id="Color Manager" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -262,6 +269,12 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="add lot of styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lot of styles" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../bootstrap4Sandbox/index.html">
@@ -309,15 +322,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../bootstrap4Sandbox/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        <state relative-caret-position="418">
+          <caret line="22" column="75" selection-start-line="22" selection-start-column="75" selection-end-line="22" selection-end-column="75" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../bootstrap4Sandbox/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        <state relative-caret-position="236">
+          <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
         </state>
       </provider>
     </entry>
